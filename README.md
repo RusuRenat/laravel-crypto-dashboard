@@ -63,7 +63,7 @@ laravel-test-task/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/RusuRenat/laravel-crypto-dashboard laravel-crypto-dashboard
+git clone https://github.com/RusuRenat/laravel-crypto-dashboard.git laravel-crypto-dashboard
 cd laravel-crypto-dashboard
 ```
 
